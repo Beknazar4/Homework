@@ -1,0 +1,7 @@
+name = input('Введите ваше имя:')
+surname = input("Введите вашу фамилию:")
+birth_date = input("Введите дату рождения в формате дд.мм.гг(пример: 01.01.1980): ")
+age = input("Введите ваш возраст:")
+phone = input("Введите ваш номер телефона:")
+adress = input("Введите ваш адресс:")
+print(name, surname, birth_date, age, phone, adress,)
